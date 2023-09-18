@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/jym0/pipapa.io/static/css/main.6d191801.css",
-    "main.js": "/jym0/pipapa.io/static/js/main.4aa236ff.js",
-    "static/media/Pinoy-Ulam.jpg": "/jym0/pipapa.io/static/media/Pinoy-Ulam.d33c0b164dea2ab1f5b6.jpg",
-    "static/media/home-ulam.png": "/jym0/pipapa.io/static/media/home-ulam.f8c377bcb7a99b23288c.png",
-    "static/media/tinola.jpg": "/jym0/pipapa.io/static/media/tinola.bbd8caa728bf0a7cb6f3.jpg",
-    "static/media/contact-img.jpg": "/jym0/pipapa.io/static/media/contact-img.af357a389452b6d30a61.jpg",
-    "static/media/sinigang.jpg": "/jym0/pipapa.io/static/media/sinigang.d3bbb3d39f5f53025c00.jpg",
-    "static/media/torta.jpg": "/jym0/pipapa.io/static/media/torta.375d7009f26ab883c5d5.jpg",
-    "static/media/pinakbet-lechon.jpg": "/jym0/pipapa.io/static/media/pinakbet-lechon.c42688148ba5fdb1ba4d.jpg",
-    "static/media/pipapa.png": "/jym0/pipapa.io/static/media/pipapa.c3ad0aabc72e3a9937b8.png",
-    "static/media/adobo-chicken.jpg": "/jym0/pipapa.io/static/media/adobo-chicken.53476c72c80efba34926.jpg",
-    "static/media/nilaga-baka.jpg": "/jym0/pipapa.io/static/media/nilaga-baka.f545573eaa8f5e05aabb.jpg",
-    "static/media/kaldereta.webp": "/jym0/pipapa.io/static/media/kaldereta.80134ed4d638d33b5669.webp",
-    "static/media/lumpia.jpg": "/jym0/pipapa.io/static/media/lumpia.083333fe8f6d12c69aff.jpg",
-    "static/media/adobo-pork.jpg": "/jym0/pipapa.io/static/media/adobo-pork.817e939da9b21cf5507a.jpg",
-    "index.html": "/jym0/pipapa.io/index.html",
-    "main.6d191801.css.map": "/jym0/pipapa.io/static/css/main.6d191801.css.map",
-    "main.4aa236ff.js.map": "/jym0/pipapa.io/static/js/main.4aa236ff.js.map"
+    "main.css": "/pipapa.io/static/css/main.6d191801.css",
+    "main.js": "/pipapa.io/static/js/main.89ba96f3.js",
+    "static/media/Pinoy-Ulam.jpg": "/pipapa.io/static/media/Pinoy-Ulam.d33c0b164dea2ab1f5b6.jpg",
+    "static/media/home-ulam.png": "/pipapa.io/static/media/home-ulam.f8c377bcb7a99b23288c.png",
+    "static/media/tinola.jpg": "/pipapa.io/static/media/tinola.bbd8caa728bf0a7cb6f3.jpg",
+    "static/media/contact-img.jpg": "/pipapa.io/static/media/contact-img.af357a389452b6d30a61.jpg",
+    "static/media/sinigang.jpg": "/pipapa.io/static/media/sinigang.d3bbb3d39f5f53025c00.jpg",
+    "static/media/torta.jpg": "/pipapa.io/static/media/torta.375d7009f26ab883c5d5.jpg",
+    "static/media/pinakbet-lechon.jpg": "/pipapa.io/static/media/pinakbet-lechon.c42688148ba5fdb1ba4d.jpg",
+    "static/media/pipapa.png": "/pipapa.io/static/media/pipapa.c3ad0aabc72e3a9937b8.png",
+    "static/media/adobo-chicken.jpg": "/pipapa.io/static/media/adobo-chicken.53476c72c80efba34926.jpg",
+    "static/media/nilaga-baka.jpg": "/pipapa.io/static/media/nilaga-baka.f545573eaa8f5e05aabb.jpg",
+    "static/media/kaldereta.webp": "/pipapa.io/static/media/kaldereta.80134ed4d638d33b5669.webp",
+    "static/media/lumpia.jpg": "/pipapa.io/static/media/lumpia.083333fe8f6d12c69aff.jpg",
+    "static/media/adobo-pork.jpg": "/pipapa.io/static/media/adobo-pork.817e939da9b21cf5507a.jpg",
+    "index.html": "/pipapa.io/index.html",
+    "main.6d191801.css.map": "/pipapa.io/static/css/main.6d191801.css.map",
+    "main.89ba96f3.js.map": "/pipapa.io/static/js/main.89ba96f3.js.map"
   },
   "entrypoints": [
     "static/css/main.6d191801.css",
-    "static/js/main.4aa236ff.js"
+    "static/js/main.89ba96f3.js"
   ]
 }
