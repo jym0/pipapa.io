@@ -1,0 +1,131 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+    background-color: #d4bda1;
+    height: 100%;
+    z-index: 1;
+}
+
+.leftside img{
+    width: 100px;
+    height: fit-content;
+    cursor: pointer;
+    
+}
+
+
+.navbar a{
+    color: black;
+    text-decoration: none;
+    margin: 0 16px;
+    font-size: 1rem;
+    position: relative;
+}
+
+.navbar a:hover{
+    color: #455947;
+}
+
+.navbar a::after{
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0%;
+    content: '.';
+    color: transparent;
+    background: #455947;
+    height: 1px;
+    transition: all 0.5s;
+}
+.navbar a::before{
+    transition: all 0.5s;
+}
+
+.navbar a:hover::after{
+    width: 100%;
+}
+
+.navbar .active-link{
+  color: #455947;
+}
+
+.navbar .rightside button {
+  background-color: transparent;
+  border: none;
+  color: black;
+  cursor: pointer;
+}
+.navbar .rightside svg{
+    font-size: 30px;
+}
+
+.navbar #open {
+  padding-left: 0px;
+}
+.navbar #open img {
+  display: none;
+}
+
+.navbar #close img {
+  display: inherit;
+}
+
+.navbar #open .hiddenLinks {
+  display: inherit;
+  margin-left: 30px;
+}
+
+.navbar #close .hiddenLinks {
+  display: none;
+}
+
+.navbar #open a {
+  width: 70px;
+  margin: 5px 14px;
+}
+
+@media only screen and (max-width: 900px) {
+  .navbar .rightside a {
+    width: 70px;
+  }
+
+}
+
+@media only screen and (max-width: 700px) {
+  .navbar{
+    padding: 20px 40px;
+  }
+  .navbar .leftside {
+    padding-left: 0px;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .navbar .rightside a {
+    display: none;
+  }
+
+  .navbar .rightside {
+    justify-content: flex-end;
+    
+  }
+
+  .navbar .rightside button {
+    display: inherit;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .navbar .rightside button {
+    display: none;
+  }
+
+  .hiddenLinks {
+    display: none;
+  }
+}

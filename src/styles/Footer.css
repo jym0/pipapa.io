@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color: #d4bda1;
+}
+
+.social-icons{
+    padding-top: 20px;
+}
+.social-icons svg{
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 6px;
+}
+
+.social-icons svg:hover{
+    scale: 1.08;
+}
+.social-icons p{
+    font-size: 1rem;
+}
