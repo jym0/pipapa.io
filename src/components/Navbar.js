@@ -19,7 +19,7 @@ function Navbar() {
         <div className="hiddenLinks">
           <Link
             to="/"
-            className={location.pathname === "/home" ? "active-link" : ""}
+            className={location.pathname === "/" ? "active-link" : ""}
           >
             Home
           </Link>
