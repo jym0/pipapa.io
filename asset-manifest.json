@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pipapa.io/static/css/main.6d191801.css",
-    "main.js": "/pipapa.io/static/js/main.89ba96f3.js",
+    "main.css": "/pipapa.io/static/css/main.4315c0f4.css",
+    "main.js": "/pipapa.io/static/js/main.65240abd.js",
     "static/media/Pinoy-Ulam.jpg": "/pipapa.io/static/media/Pinoy-Ulam.d33c0b164dea2ab1f5b6.jpg",
     "static/media/home-ulam.png": "/pipapa.io/static/media/home-ulam.f8c377bcb7a99b23288c.png",
     "static/media/tinola.jpg": "/pipapa.io/static/media/tinola.bbd8caa728bf0a7cb6f3.jpg",
@@ -16,11 +16,11 @@
     "static/media/lumpia.jpg": "/pipapa.io/static/media/lumpia.083333fe8f6d12c69aff.jpg",
     "static/media/adobo-pork.jpg": "/pipapa.io/static/media/adobo-pork.817e939da9b21cf5507a.jpg",
     "index.html": "/pipapa.io/index.html",
-    "main.6d191801.css.map": "/pipapa.io/static/css/main.6d191801.css.map",
-    "main.89ba96f3.js.map": "/pipapa.io/static/js/main.89ba96f3.js.map"
+    "main.4315c0f4.css.map": "/pipapa.io/static/css/main.4315c0f4.css.map",
+    "main.65240abd.js.map": "/pipapa.io/static/js/main.65240abd.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d191801.css",
-    "static/js/main.89ba96f3.js"
+    "static/css/main.4315c0f4.css",
+    "static/js/main.65240abd.js"
   ]
 }
